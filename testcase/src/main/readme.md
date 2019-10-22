@@ -19,3 +19,7 @@
 ## java/priv/crp/studyproject/JavaCallGroovy
 
     测试java调起groovy方法。
+    
+## java/priv/crp/studyproject/DynamicRunScript
+
+    动态编译脚本，并且运行。
